@@ -1,4 +1,298 @@
 {
   "schemaVersion": 1,
-  "packs": []
+  "categories": [
+    {
+      "id": "kiss_and_hug",
+      "name": "Kiss & Hug",
+      "icon": "💋"
+    },
+    {
+      "id": "love_quotes",
+      "name": "Love Quotes",
+      "icon": "💖"
+    },
+    {
+      "id": "romance",
+      "name": "Romance",
+      "icon": "❤️"
+    },
+    {
+      "id": "romantic_couples",
+      "name": "Romantic Couples",
+      "icon": "👫"
+    },
+    {
+      "id": "spicy_and_flirty",
+      "name": "Spicy & Flirty",
+      "icon": "🌶️"
+    }
+  ],
+  "packs": [
+    {
+      "id": "soft_nuzzles",
+      "title": "Soft Nuzzles",
+      "category": "kiss_and_hug",
+      "path": "packs/kiss_and_hug/soft_nuzzles",
+      "cover": "packs/kiss_and_hug/soft_nuzzles/01.png",
+      "stickerCount": 9,
+      "stickers": [
+        "packs/kiss_and_hug/soft_nuzzles/01.png",
+        "packs/kiss_and_hug/soft_nuzzles/02.png",
+        "packs/kiss_and_hug/soft_nuzzles/03.png",
+        "packs/kiss_and_hug/soft_nuzzles/04.png",
+        "packs/kiss_and_hug/soft_nuzzles/05.png",
+        "packs/kiss_and_hug/soft_nuzzles/06.png",
+        "packs/kiss_and_hug/soft_nuzzles/07.png",
+        "packs/kiss_and_hug/soft_nuzzles/08.png",
+        "packs/kiss_and_hug/soft_nuzzles/09.png"
+      ]
+    },
+    {
+      "id": "sweet_smooches",
+      "title": "Sweet Smooches",
+      "category": "kiss_and_hug",
+      "path": "packs/kiss_and_hug/sweet_smooches",
+      "cover": "packs/kiss_and_hug/sweet_smooches/01.png",
+      "stickerCount": 9,
+      "stickers": [
+        "packs/kiss_and_hug/sweet_smooches/01.png",
+        "packs/kiss_and_hug/sweet_smooches/02.png",
+        "packs/kiss_and_hug/sweet_smooches/03.png",
+        "packs/kiss_and_hug/sweet_smooches/04.png",
+        "packs/kiss_and_hug/sweet_smooches/05.png",
+        "packs/kiss_and_hug/sweet_smooches/06.png",
+        "packs/kiss_and_hug/sweet_smooches/07.png",
+        "packs/kiss_and_hug/sweet_smooches/08.png",
+        "packs/kiss_and_hug/sweet_smooches/09.png"
+      ]
+    },
+    {
+      "id": "warm_cudles",
+      "title": "Warm Cuddles",
+      "category": "kiss_and_hug",
+      "path": "packs/kiss_and_hug/warm_cudles",
+      "cover": "packs/kiss_and_hug/warm_cudles/01.png",
+      "stickerCount": 9,
+      "stickers": [
+        "packs/kiss_and_hug/warm_cudles/01.png",
+        "packs/kiss_and_hug/warm_cudles/02.png",
+        "packs/kiss_and_hug/warm_cudles/03.png",
+        "packs/kiss_and_hug/warm_cudles/04.png",
+        "packs/kiss_and_hug/warm_cudles/05.png",
+        "packs/kiss_and_hug/warm_cudles/06.png",
+        "packs/kiss_and_hug/warm_cudles/07.png",
+        "packs/kiss_and_hug/warm_cudles/08.png",
+        "packs/kiss_and_hug/warm_cudles/09.png"
+      ]
+    },
+    {
+      "id": "heartfelt_quotes",
+      "title": "Heartfelt Quotes",
+      "category": "love_quotes",
+      "path": "packs/love_quotes/heartfelt_quotes",
+      "cover": "packs/love_quotes/heartfelt_quotes/01.png",
+      "stickerCount": 9,
+      "stickers": [
+        "packs/love_quotes/heartfelt_quotes/01.png",
+        "packs/love_quotes/heartfelt_quotes/02.png",
+        "packs/love_quotes/heartfelt_quotes/03.png",
+        "packs/love_quotes/heartfelt_quotes/04.png",
+        "packs/love_quotes/heartfelt_quotes/05.png",
+        "packs/love_quotes/heartfelt_quotes/06.png",
+        "packs/love_quotes/heartfelt_quotes/07.png",
+        "packs/love_quotes/heartfelt_quotes/08.png",
+        "packs/love_quotes/heartfelt_quotes/09.png"
+      ]
+    },
+    {
+      "id": "playful_sayings",
+      "title": "Playful Sayings",
+      "category": "love_quotes",
+      "path": "packs/love_quotes/playful_sayings",
+      "cover": "packs/love_quotes/playful_sayings/01.png",
+      "stickerCount": 9,
+      "stickers": [
+        "packs/love_quotes/playful_sayings/01.png",
+        "packs/love_quotes/playful_sayings/02.png",
+        "packs/love_quotes/playful_sayings/03.png",
+        "packs/love_quotes/playful_sayings/04.png",
+        "packs/love_quotes/playful_sayings/05.png",
+        "packs/love_quotes/playful_sayings/06.png",
+        "packs/love_quotes/playful_sayings/07.png",
+        "packs/love_quotes/playful_sayings/08.png",
+        "packs/love_quotes/playful_sayings/09.png"
+      ]
+    },
+    {
+      "id": "retro_love_notes",
+      "title": "Retro Love Notes",
+      "category": "love_quotes",
+      "path": "packs/love_quotes/retro_love_notes",
+      "cover": "packs/love_quotes/retro_love_notes/01.png",
+      "stickerCount": 9,
+      "stickers": [
+        "packs/love_quotes/retro_love_notes/01.png",
+        "packs/love_quotes/retro_love_notes/02.png",
+        "packs/love_quotes/retro_love_notes/03.png",
+        "packs/love_quotes/retro_love_notes/04.png",
+        "packs/love_quotes/retro_love_notes/05.png",
+        "packs/love_quotes/retro_love_notes/06.png",
+        "packs/love_quotes/retro_love_notes/07.png",
+        "packs/love_quotes/retro_love_notes/08.png",
+        "packs/love_quotes/retro_love_notes/09.png"
+      ]
+    },
+    {
+      "id": "eternal_romance",
+      "title": "Eternal Romance",
+      "category": "romance",
+      "path": "packs/romance/eternal_romance",
+      "cover": "packs/romance/eternal_romance/01.png",
+      "stickerCount": 9,
+      "stickers": [
+        "packs/romance/eternal_romance/01.png",
+        "packs/romance/eternal_romance/02.png",
+        "packs/romance/eternal_romance/03.png",
+        "packs/romance/eternal_romance/04.png",
+        "packs/romance/eternal_romance/05.png",
+        "packs/romance/eternal_romance/06.png",
+        "packs/romance/eternal_romance/07.png",
+        "packs/romance/eternal_romance/08.png",
+        "packs/romance/eternal_romance/09.png"
+      ]
+    },
+    {
+      "id": "sweet_affection",
+      "title": "Sweet Affection",
+      "category": "romance",
+      "path": "packs/romance/sweet_affection",
+      "cover": "packs/romance/sweet_affection/01.png",
+      "stickerCount": 9,
+      "stickers": [
+        "packs/romance/sweet_affection/01.png",
+        "packs/romance/sweet_affection/02.png",
+        "packs/romance/sweet_affection/03.png",
+        "packs/romance/sweet_affection/04.png",
+        "packs/romance/sweet_affection/05.png",
+        "packs/romance/sweet_affection/06.png",
+        "packs/romance/sweet_affection/07.png",
+        "packs/romance/sweet_affection/08.png",
+        "packs/romance/sweet_affection/09.png"
+      ]
+    },
+    {
+      "id": "everyday_dates",
+      "title": "Everyday Dates",
+      "category": "romantic_couples",
+      "path": "packs/romantic_couples/everyday_dates",
+      "cover": "packs/romantic_couples/everyday_dates/01.png",
+      "stickerCount": 9,
+      "stickers": [
+        "packs/romantic_couples/everyday_dates/01.png",
+        "packs/romantic_couples/everyday_dates/02.png",
+        "packs/romantic_couples/everyday_dates/03.png",
+        "packs/romantic_couples/everyday_dates/04.png",
+        "packs/romantic_couples/everyday_dates/05.png",
+        "packs/romantic_couples/everyday_dates/06.png",
+        "packs/romantic_couples/everyday_dates/07.png",
+        "packs/romantic_couples/everyday_dates/08.png",
+        "packs/romantic_couples/everyday_dates/09.png"
+      ]
+    },
+    {
+      "id": "fairytales_romance",
+      "title": "Fairytale Romance",
+      "category": "romantic_couples",
+      "path": "packs/romantic_couples/fairytales_romance",
+      "cover": "packs/romantic_couples/fairytales_romance/01.png",
+      "stickerCount": 9,
+      "stickers": [
+        "packs/romantic_couples/fairytales_romance/01.png",
+        "packs/romantic_couples/fairytales_romance/02.png",
+        "packs/romantic_couples/fairytales_romance/03.png",
+        "packs/romantic_couples/fairytales_romance/04.png",
+        "packs/romantic_couples/fairytales_romance/05.png",
+        "packs/romantic_couples/fairytales_romance/06.png",
+        "packs/romantic_couples/fairytales_romance/07.png",
+        "packs/romantic_couples/fairytales_romance/08.png",
+        "packs/romantic_couples/fairytales_romance/09.png"
+      ]
+    },
+    {
+      "id": "sweet_adventures",
+      "title": "Sweet Adventures",
+      "category": "romantic_couples",
+      "path": "packs/romantic_couples/sweet_adventures",
+      "cover": "packs/romantic_couples/sweet_adventures/01.png",
+      "stickerCount": 9,
+      "stickers": [
+        "packs/romantic_couples/sweet_adventures/01.png",
+        "packs/romantic_couples/sweet_adventures/02.png",
+        "packs/romantic_couples/sweet_adventures/03.png",
+        "packs/romantic_couples/sweet_adventures/04.png",
+        "packs/romantic_couples/sweet_adventures/05.png",
+        "packs/romantic_couples/sweet_adventures/06.png",
+        "packs/romantic_couples/sweet_adventures/07.png",
+        "packs/romantic_couples/sweet_adventures/08.png",
+        "packs/romantic_couples/sweet_adventures/09.png"
+      ]
+    },
+    {
+      "id": "cheeky_and_teasing",
+      "title": "Cheeky & Teasing",
+      "category": "spicy_and_flirty",
+      "path": "packs/spicy_and_flirty/cheeky_and_teasing",
+      "cover": "packs/spicy_and_flirty/cheeky_and_teasing/01.png",
+      "stickerCount": 9,
+      "stickers": [
+        "packs/spicy_and_flirty/cheeky_and_teasing/01.png",
+        "packs/spicy_and_flirty/cheeky_and_teasing/02.png",
+        "packs/spicy_and_flirty/cheeky_and_teasing/03.png",
+        "packs/spicy_and_flirty/cheeky_and_teasing/04.png",
+        "packs/spicy_and_flirty/cheeky_and_teasing/05.png",
+        "packs/spicy_and_flirty/cheeky_and_teasing/06.png",
+        "packs/spicy_and_flirty/cheeky_and_teasing/07.png",
+        "packs/spicy_and_flirty/cheeky_and_teasing/08.png",
+        "packs/spicy_and_flirty/cheeky_and_teasing/09.png"
+      ]
+    },
+    {
+      "id": "spicy_sparks",
+      "title": "Spicy Sparks",
+      "category": "spicy_and_flirty",
+      "path": "packs/spicy_and_flirty/spicy_sparks",
+      "cover": "packs/spicy_and_flirty/spicy_sparks/01.png",
+      "stickerCount": 9,
+      "stickers": [
+        "packs/spicy_and_flirty/spicy_sparks/01.png",
+        "packs/spicy_and_flirty/spicy_sparks/02.png",
+        "packs/spicy_and_flirty/spicy_sparks/03.png",
+        "packs/spicy_and_flirty/spicy_sparks/04.png",
+        "packs/spicy_and_flirty/spicy_sparks/05.png",
+        "packs/spicy_and_flirty/spicy_sparks/06.png",
+        "packs/spicy_and_flirty/spicy_sparks/07.png",
+        "packs/spicy_and_flirty/spicy_sparks/08.png",
+        "packs/spicy_and_flirty/spicy_sparks/09.png"
+      ]
+    },
+    {
+      "id": "too_hot_to_handle",
+      "title": "Too Hot to Handle",
+      "category": "spicy_and_flirty",
+      "path": "packs/spicy_and_flirty/too_hot_to_handle",
+      "cover": "packs/spicy_and_flirty/too_hot_to_handle/01.png",
+      "stickerCount": 9,
+      "stickers": [
+        "packs/spicy_and_flirty/too_hot_to_handle/01.png",
+        "packs/spicy_and_flirty/too_hot_to_handle/02.png",
+        "packs/spicy_and_flirty/too_hot_to_handle/03.png",
+        "packs/spicy_and_flirty/too_hot_to_handle/04.png",
+        "packs/spicy_and_flirty/too_hot_to_handle/05.png",
+        "packs/spicy_and_flirty/too_hot_to_handle/06.png",
+        "packs/spicy_and_flirty/too_hot_to_handle/07.png",
+        "packs/spicy_and_flirty/too_hot_to_handle/08.png",
+        "packs/spicy_and_flirty/too_hot_to_handle/09.png"
+      ]
+    }
+  ]
 }
